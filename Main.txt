@@ -1,0 +1,23 @@
+from configparser import LegacyInterpolation
+from string import octdigits
+
+
+print ("hello world")
+- Queijo coalho (Se encontrar promoção)
+- Pão (tá precisando)
+
+leite 
+
+
+Tá faltando
+
+- Pão
+- Leite
+- Nescau
+
+Se quiser ou encontrar promoção
+
+- Queijo coalho
+- Bolo
+
+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s
